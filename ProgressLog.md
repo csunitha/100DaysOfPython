@@ -1,5 +1,18 @@
+<b> Day 3: 17-Apr-19 </b>
+
+<b> Day 2: 16-Apr-19 </b>
+
+Program to read csv file through pandas and plot a pie chart through matplotlib.pyplot
+
 <b> Day 1: 15-Apr-19 </b>
 
+Program to read csv file through 
+- csv module
+- pandas.
+
+Site introduced: 
+- https://pybit.es/
+- https://talkpython.fm/
 
 
 <b> Day 0: 14 April 2019 </b>
