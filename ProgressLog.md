@@ -1,18 +1,40 @@
-<b> Day 3: 17-Apr-19 </b>
+<b> Day 3_1: 18 April 2019 </b>
+- Missed: 17-Apr
 
-<b> Day 2: 16-Apr-19 </b>
+
+<b> Day 2: 16 April 2019 </b>
 
 Program to read csv file through pandas and plot a pie chart through matplotlib.pyplot
 
-<b> Day 1: 15-Apr-19 </b>
+Additional thoughts on:
+ - Reco engine based on past bookings 
+ - Progam to pull data from oracle db through pandas
+ - Timepass idea: haiku generator.
 
-Program to read csv file through 
+Sites introduced: 
+- https://pybit.es/
+- https://talkpython.fm/
+
+
+<b> Day 1: 15 April 2019 </b>
+
+Install packages with proxy (e.g installing pandas)
+- pip install --proxy=domain\\userid:password@www-proxy-whatever:port pandas
+
+Upgrade (without proxy)
+- python -m pip install --upgrade pandas
+
+Comment
+- Single line #
+- Double line ''' '''
+
+
+Program to read rows in csv file through 
 - csv module
 - pandas.
 
 Site introduced: 
-- https://pybit.es/
-- https://talkpython.fm/
+- @SirajRawal - School of AI - Videos on sentiment analysis
 
 
 <b> Day 0: 14 April 2019 </b>
