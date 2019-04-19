@@ -1,6 +1,31 @@
 <b> Day 3_1: 18 April 2019 </b>
 - Missed: 17-Apr
 
+Topics
+- Understand the Regular expression through book 'Automate the Boring Stuff' 
+- Understand few changes from pyton 2 / 3 and also how to run using main method and unit tests
+
+\d - a digit character <br>
+So sample for phone number check <br> 
+\d\d\d-\d\d\d-\d\d\d\d
+
+{n} - Macth a pattern n times, so the above pattern would become <br>
+\d{3}-\d{3}-\d{4}
+
+Steps for regex:
+- import re
+- define regex pattern and get regex object
+- use regex.search() to get results 
+
+Also downloaded pyku and tried to run it. In that process, has to make few changes in the code base to make it compatible to python 3. 
+
+Python 2/3 differences.
+- print needs parenthesis
+- xrange of 2 does not exists in 3. range function in 3 does the same thing as xrange. 
+
+Also run the unit test caes, and also understood how a main function is written.
+
+
 
 <b> Day 2: 16 April 2019 </b>
 
