@@ -1,3 +1,20 @@
+<b> Day 4: 19 April 2019 </b>
+
+Topics
+- Regex a bit more undestanding <br>
+\b word boundary <br>
+\w* any word character <br> 
+word character is digit 0-9, lower/uppercase, underscore <br>
+- Program: Opening a file using 'with open' and read and append the line to a list after stripping the new line character. 
+- Program: Search a specific string in the file using string find() and append to list
+- Program: Search a specific string in a file using regex and add to tuple
+
+Sites introduced: 
+- https://regexr.com/
+- http://inventwithpython.com/
+- https://www.computerhope.com/issues/ch001721.htm
+
+
 <b> Day 3_1: 18 April 2019 </b>
 - Missed: 17-Apr
 
@@ -25,7 +42,8 @@ Python 2/3 differences.
 
 Also run the unit test caes, and also understood how a main function is written.
 
-
+Sites introduced: 
+- https://regexpal.com/
 
 <b> Day 2: 16 April 2019 </b>
 
