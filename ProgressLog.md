@@ -1,3 +1,11 @@
+<b> Day 5: 20 April 2019 </b>
+
+Not much of activities in python today as i spent some time looking at javaparser. 
+
+Couple of things in regex covered today
+- Creating groups in regex with parenthesis ()
+- Matching multiple groups with the pipe | 
+
 <b> Day 4: 19 April 2019 </b>
 
 Topics
