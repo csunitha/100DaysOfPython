@@ -1,3 +1,33 @@
+<b> Day 6_1: 22 April 2019 </b>
+
+Missed doing exercises on 21st April, however on that day did jupyter notebook install.
+ - python -m pip install jupyter
+ 
+In the command prompt, Got to the folder where you want the notebook to start and run this command
+- jupyter notebook
+
+Also was looking for python articles in DZone. 
+Quick browse through of popular framework in Python
+- Django - most famoos open source full stack python framework. Few things that make it most wanted in the SAAS business is template engine, URL routing, authentication, object relational mapping (ORM)
+- Pyramid
+- TurboGears
+
+Article on why every programmer should learn python
+- Data science, Machine Learning, Web development, Simplicity, Huge coomunity, Libraries & Framework, Automation, Multipurpose, Jobs and Growth, Salary
+
+22nd April I tried the following items though coding (based on dzone article idioms brewing codes)
+- simple iteration
+- reversed
+- list comprehension
+- sequence unpacking (extract values from list to multiple variables)
+- enumerate (It is an iterator that returns pairs, each of which contains the position of an element & element itself
+- range  (range accepts an integer & returns range object which is nothing but a sequence of integers)
+- str.format
+
+Sites / articles:
+https://dzone.com/articles/python-data-structures-idioms-brewing-codes 
+https://www.geeksforgeeks.org/python-programming-language/
+
 <b> Day 5: 20 April 2019 </b>
 
 Not much of activities in python today as i spent some time looking at javaparser. 
