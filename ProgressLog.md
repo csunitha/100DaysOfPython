@@ -25,9 +25,8 @@ Article on why every programmer should learn python
 - str.format
 
 Sites / articles:
-https://dzone.com/articles/python-data-structures-idioms-brewing-codes 
-
-https://www.geeksforgeeks.org/python-programming-language/
+- https://dzone.com/articles/python-data-structures-idioms-brewing-codes 
+- https://www.geeksforgeeks.org/python-programming-language/
 
 <b> Day 5: 20 April 2019 </b>
 
