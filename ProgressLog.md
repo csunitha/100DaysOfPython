@@ -1,3 +1,22 @@
+<b> Day 7: 23 April 2019 </b>
+
+SQLAlchemy / Pandas 
+	- Started with trying to connect to Oracle db using SQLAlchemy and Pandas.
+	- Refered the first article in the list and tried both the ways. using service name i was able to proceed. 
+	- To run this, installed SQLAlchemy and cx_Oracle 
+
+Introduction to Pep8 (Python Enhancement Proposal)
+ - Style guide for Python code (Watched video beyond pep 8 by Raymond Hettinger - PyCon 2015)
+ - P vs NP (Pythonic vs Non Pythonic)
+ - writing adapter to make a non pythonic api to pythonic api 
+ - Keyword arguments
+ - namedtuple
+
+Sites/articles
+1. https://gist.github.com/DGrady/7fb5c2214f247dcff2cb5dd99e231483
+2. https://www.youtube.com/watch?v=wf-BqAjZb8M&feature=player_embedded
+3. https://treyhunner.com/2018/04/how-to-make-the-most-of-your-first-pycon/
+
 <b> Day 6_1: 22 April 2019 </b>
 
 Missed doing exercises on 21st April, however on that day did jupyter notebook install.
