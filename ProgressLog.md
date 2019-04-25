@@ -1,3 +1,23 @@
+<b> Day 8_1: 25 April 2019 </b>
+
+Yesterday registered for pybites site. Looked into various panda site. But did not do much about it.
+
+Today learnt the following
+- f string
+- usage of pythonic if to set value in variable
+	- allowed = 'is allowed' if age >= MIN_DRIVING_AGE else 'is not allowed'
+- defined class with __init__ , __str__ , __repr__ 
+
+Tried various string format options and tried f-string. Also based on that, did first pybite challenge. Did not get it right but learnt pythonic way of writing if condition. And also tried few f-string options and corrected the day 7 code using f-string option. Also defined a class. 
+
+f-string is more readable, more consise, less prone to error and also faster. 
+
+And all of this was done using jupyter notebook. 
+
+Sites/articles
+1. https://realpython.com/python-f-strings/
+2. https://codechalleng.es/bites/101/
+
 <b> Day 7: 23 April 2019 </b>
 
 SQLAlchemy / Pandas 
